@@ -19,7 +19,7 @@ Logo Login 🔥
  ![Screenshot_2022-09-30-19-43-37-341_com termux](https://user-images.githubusercontent.com/114341732/193273439-98731ff2-7383-4c93-a5af-8905e777d9ee.jpg)
  
 Logo Dalem 🔥 
- ![Screenshot_2022-09-28-22-08-51-290_com termux](https://user-images.githubusercontent.com/114341732/192851002-bf40ac8b-8b45-4e10-901b-a14296e66e3f.jpg)
+ ![Screenshot_2022-09-30-19-43-16-161_com termux](https://user-images.githubusercontent.com/114341732/193273443-3e35864e-f2ee-4c09-a2e2-a0139fdf7068.jpg)
 
 ## INSTALING
 
